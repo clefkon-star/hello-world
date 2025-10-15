@@ -1,0 +1,46 @@
+<iframe title="[ Insert title here ]" aria-label="Line chart" id="datawrapper-chart-e9ynX" src="https://datawrapper.dwcdn.net/e9ynX/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="445" data-external="1"></iframe><script type="text/javascript">window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"]){var e=document.querySelectorAll("iframe");for(var t in a.data["datawrapper-height"])for(var r,i=0;r=e[i];i++)if(r.contentWindow===a.source){var d=a.data["datawrapper-height"][t]+"px";r.style.height=d}}});</script>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<style>
+		header {
+			background-color: #4caf50;
+			color: white;
+			text-align: center;
+			padding: 1em;
+		}
+		nav {
+			background-color: #333;
+			overflow: hidden;
+		}
+		main {
+			padding: 20px;
+		}
+		footer {
+			background-color: #4caf50;
+			color: white;
+			text-align: center;
+			padding: 1em;
+		}
+	</style>
+</head>
+<body>
+	<header>
+		<h1>Styled Page</h1>
+	</header>
+	<nav>
+		<a href="#">Home</a>
+		<a href="#">Services</a>
+		<a href="#">Contact</a>
+	</nav>
+	<main>
+		<h2>Welcome!</h2>
+		<p>This is a simple page.</p>
+	</main>
+	<footer>
+		<p>&copy; 2024 Styled Page</p>
+	</footer>
+</body>
+
+</html>
